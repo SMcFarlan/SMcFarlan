@@ -122,7 +122,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  education: [
+  educations: [
     {
       institution: 'College of the Sequoias',
       degree: 'Undergrad Transfer',
