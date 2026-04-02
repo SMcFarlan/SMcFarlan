@@ -85,7 +85,7 @@ const CONFIG = {
   skills: [
     'Herbarium Management',
     'Greenhouse Management',
-    'Rare Plant Survey',
+    'Monkeyflower Finder',
     'State Permit Process',
     '',
     '',
